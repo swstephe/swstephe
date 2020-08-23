@@ -19,6 +19,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Stack Overflow Posts
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 [website]: https://swstephe.github.io/
 [linkedin]: http://linkedin.com/in/swstephe
 
