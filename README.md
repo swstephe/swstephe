@@ -15,6 +15,8 @@
 <br />
 <br />
 
+[![Scott's github stats](https://github-readme-stats.vercel.app/api?username=swstephe)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
