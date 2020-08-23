@@ -13,7 +13,7 @@
 <br/>
 
 ### Language and Tools
-[![Python](https://www.github.com/swstephe/swstephe/python.svg)](https://github.com/topics/python)
+[![Python](python.svg)](https://github.com/topics/python)
 
 <br />
 
