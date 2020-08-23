@@ -11,10 +11,11 @@
 <br/>
 
 ### Language and Tools
+<a href="https://github.com/topics/python"><img src="https://simpleicons.org/icons/python.svg" style="color: #0000ff;" height="32" width="32"></a>
 
 <br />
-<br />
 
+<!-- TODO: port to something else -->
 [![Scott's github stats](https://github-readme-stats.vercel.app/api?username=swstephe)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :pencil2: Latest Blog Posts
