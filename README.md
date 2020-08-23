@@ -13,7 +13,9 @@
 <br/>
 
 ### Language and Tools
+<div style="background-color: #3776AB; width: 32; height: 32;">
 [![Python](python.svg)](https://github.com/topics/python)
+</div>
 
 <br />
 
