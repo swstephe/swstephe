@@ -14,7 +14,7 @@
 
 ### Language and Tools
 <div style="background-color: #3776AB; width: 32px; height: 32px;">
-<a href="https://github.com/topics/python"><img src="python.svg" alt="Python"></a>
+<a href="https://github.com/topics/python"><img src="swstephe/swstephe/python.svg" alt="Python"></a>
 </div>
 
 <br />
