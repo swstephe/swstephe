@@ -13,9 +13,7 @@
 <br/>
 
 ### Language and Tools
-<div style="background-color: #3776AB; width: 32px; height: 32px;">
-<a href="https://github.com/topics/python"><img src="swstephe/swstephe/python.svg" alt="Python"></a>
-</div>
+[<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/topics/python)
 
 <br />
 
